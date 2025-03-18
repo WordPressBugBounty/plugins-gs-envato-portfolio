@@ -3,7 +3,7 @@ Contributors: gsplugins, itszaman, samdani
 Donate link: https://www.paypal.com/donate/?hosted_button_id=K7K8YF4U3SCNQ
 Tags: envato themeforest, envato market wordpress plugin, portfolio items wordpress, codecanyon wordpress, premium wordpress plugins, themeforest, codecanyon, api, author, affiliate, envato, marketplace, sidebar, ad, ads, advertising, widget
 Requires at least: 4.3
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
 Stable tag: 1.4.1
 License: GPLv2 or later
