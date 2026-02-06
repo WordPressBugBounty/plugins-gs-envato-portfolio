@@ -3,9 +3,9 @@ Contributors: gsplugins, itszaman, samdani
 Donate link: https://www.paypal.com/donate/?hosted_button_id=K7K8YF4U3SCNQ
 Tags: envato themeforest, envato market wordpress plugin, portfolio items wordpress, codecanyon wordpress, premium wordpress plugins, themeforest, codecanyon, api, author, affiliate, envato, marketplace, sidebar, ad, ads, advertising, widget
 Requires at least: 4.3
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.4.1
+Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -205,6 +205,9 @@ WordPress has a great function, do_shortcode(), that will allow you to use short
 13. GS Envato Shortcode Generator
 
 == Changelog ==
+= Version 1.4.2 [14th Dec 2025] =
+* [Removed]: Admin Notice.
+
 = Version 1.4.1 [30th Jan 2023] =
 * [Updated]: Free, Pro Plugins Pages & Help Page.
 * [Removed]: All Admin Notices From the Envato Plugin pages.
@@ -257,6 +260,9 @@ WordPress has a great function, do_shortcode(), that will allow you to use short
 * Initial release
 
 == Upgrade notice ==
+= Version 1.4.2 [14th Dec 2025] =
+* [Removed]: Admin Notice.
+
 = Version 1.4.1 [30th Jan 2023] =
 * [Updated]: Free, Pro Plugins Pages & Help Page.
 * [Removed]: All Admin Notices From the Envato Plugin pages.

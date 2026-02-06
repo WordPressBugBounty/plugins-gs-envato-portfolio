@@ -35,8 +35,7 @@ class GS_envato_Settings_Config {
 
     function admin_menu() {
 
-       // add_submenu_page( 'gsp-main', 'Envato Settings', 'Envato Settings', 'delete_posts', 'envato-settings', array($this, 'gsenvato_plugin_page')); 
-        add_menu_page( 'Envato Settings', 'Envato Settings', 'delete_posts', 'envato-settings', array($this, 'gsenvato_plugin_page'),'', 5); 
+      add_menu_page( 'Envato Settings', 'Envato Settings', 'delete_posts', 'envato-settings', array($this, 'gsenvato_plugin_page'),'', 5); 
     }
 
     function get_settings_sections() {
